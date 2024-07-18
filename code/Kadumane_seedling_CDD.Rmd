@@ -4,11 +4,12 @@ author: "Robert Bagchi and Ashwin Viswanathan"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 graphics: yes
 output: 
-  github_document:
-    toc: yes
   pdf_document:
     number_sections: yes
-  toc: true
+    toc: true
+  github_document:
+    toc: yes
+  
 ---
 ## set up
 
