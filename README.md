@@ -2,7 +2,7 @@ Authors: Robert Bagchi and Ashwin Viswanathan
 email: robert.bagchi@uconn.edu
 
 # Summary
-This repo includes code used to analyze data in Viswanathan et al. (submitted). 
+This repo includes code used to analyze data in Viswanathan et al., 2025, Ecological Applications. 
 The analysis investigates the impacts of fragmentation on conspecific 
 density dependence (CDD) of seedling survival. The experiment was set up in
 21 forest fragments embedded in Kadumane Tea Estate (Karnataka, India), with
